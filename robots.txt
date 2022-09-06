@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:  
+
+ 
+Sitemap: http://koooora.games/sitemap.xml
